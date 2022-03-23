@@ -1,0 +1,5 @@
+FONTE PARA EXERCICIO
+
+https://data.townofcary.org/api/v2/catalog/datasets/rdu-weather-history
+https://www.sba.gov/sites/default/files/data.json
+https://servicodados.ibge.gov.br/api/v2/censos/nomes/ranking
